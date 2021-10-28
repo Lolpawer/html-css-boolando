@@ -14,13 +14,17 @@
     display: inline-block;
     width: 32%;
     margin: 20px 5px;
+    height: 500px;
     position: relative;
 }
 
 .clothes img {
     width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
 
-.one {
-   
+.box:hover img.hide{
+    display: none;
 }
