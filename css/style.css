@@ -28,3 +28,41 @@
 .box:hover img.hide{
     display: none;
 }
+
+.prices {
+    position: absolute;
+    top: 462px;
+}
+
+.maker {
+    font-size: 10px;
+    color:gray;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.price {
+    font-size: 12px;
+}
+
+.new {
+    color: red;
+}
+
+.old {
+    text-decoration-line: line-through;
+}
+
+.heart {
+    position: absolute;
+    background-color: #fff;
+    height: 35px;
+    width: 35px;
+    text-align: center;
+    line-height: 35px;
+    font-size: 25px;
+    right: 0;
+    top: 15px;
+}
