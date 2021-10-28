@@ -66,3 +66,25 @@
     right: 0;
     top: 15px;
 }
+
+.sconto {
+    position: absolute;
+    background-color: deeppink;
+    font-size: 14px;
+    color: #fff;
+    padding: 3px 3px;
+    bottom: 55px;
+}
+
+.sostenibile {
+    position: absolute;
+    background-color: forestgreen;
+    font-size: 14px;
+    color: #fff;
+    padding: 3px 3px;
+    bottom: 55px;
+}
+
+.scontato {
+    left: 44px;
+}
